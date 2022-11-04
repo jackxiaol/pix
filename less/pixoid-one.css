@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#layout {
+  max-width: 640px;
+  min-width: 320px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+header {
+  max-width: 640px;
+  width: 100%;
+  height: 40px;
+  position: fixed;
+  top: 0px;
+  margin-top: 10px;
+}
+header .loge {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-image: url(../img/logo-2.png);
+  background-repeat: no-repeat;
+  background-size: 118px 20px;
+  background-position: 10px 8px;
+}
+header .xg {
+  float: right;
+  width: 50%;
+  height: 100%;
+}
+header .xg > svg {
+  position: absolute;
+  right: 5px;
+  top: 10px;
+}
+header .xg > svg > path {
+  color: #fff;
+}
+nav {
+  width: 100%;
+  height: 740px;
+  background: linear-gradient(90deg, rgba(242, 139, 194, 0.9) 0%, rgba(216, 177, 242, 0.9) 65%);
+  padding: 200px 0px  100px ;
+  box-sizing: border-box;
+}

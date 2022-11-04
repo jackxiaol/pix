@@ -1,0 +1,135 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1096",
+      "name": "笔记本",
+      "font_class": "bijiben",
+      "unicode": "f00a7",
+      "unicode_decimal": 983207
+    },
+    {
+      "icon_id": "217235",
+      "name": "android",
+      "font_class": "android",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "560666",
+      "name": "iphone",
+      "font_class": "iphone",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "604654",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "634294",
+      "name": "facebook_facebook52",
+      "font_class": "facebookfacebook52",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "702610",
+      "name": "google-play",
+      "font_class": "googleplay",
+      "unicode": "e8af",
+      "unicode_decimal": 59567
+    },
+    {
+      "icon_id": "901941",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "936756",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5220957",
+      "name": "篮球",
+      "font_class": "lanqiu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "6380878",
+      "name": "点赞_块",
+      "font_class": "dianzan_kuai",
+      "unicode": "ec8c",
+      "unicode_decimal": 60556
+    },
+    {
+      "icon_id": "6808502",
+      "name": "Windows",
+      "font_class": "Windows",
+      "unicode": "edd4",
+      "unicode_decimal": 60884
+    },
+    {
+      "icon_id": "7592572",
+      "name": "24gf-headset",
+      "font_class": "24gf-headset",
+      "unicode": "ea0e",
+      "unicode_decimal": 59918
+    },
+    {
+      "icon_id": "10031201",
+      "name": "推特",
+      "font_class": "tuite",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "11372782",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e8c7",
+      "unicode_decimal": 59591
+    },
+    {
+      "icon_id": "11754685",
+      "name": "灯泡",
+      "font_class": "V",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "11882911",
+      "name": "bg-maillist",
+      "font_class": "bg-maillist",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "14718734",
+      "name": "tx-五角星形",
+      "font_class": "tx-wujiaoxingxing",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "24859980",
+      "name": "下载-文件下载-16",
+      "font_class": "xiazai-wenjianxiazai-16",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    }
+  ]
+}
